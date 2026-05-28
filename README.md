@@ -64,6 +64,6 @@ Este projeto consiste em uma modelagem financeira e valuation completo pelo mét
 
 ## 👇Para conferir todos os cálculos e premissas
 
-⬇️ [Clique aqui para baixar a planilha completa](Valuation/Valuation_DCF)
+⬇️ [Clique aqui para baixar a planilha completa](Valuation/Valuation_DCF.xlsx)
 
 
